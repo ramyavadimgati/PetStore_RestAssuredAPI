@@ -125,3 +125,14 @@
 2023-06-15 20:44:04,003 INFO a.t.Usermodel_Test [main] Again getting User details after updation
 2023-06-15 20:44:04,008 INFO a.t.Usermodel_Test [main] User details deletion
 2023-06-15 20:44:05,206 INFO a.t.Usermodel_Test [main] Successfully user detail deleted
+2023-06-15 21:14:44,456 INFO a.t.Usermodel_Test [main] This is user creation class
+2023-06-15 21:14:53,377 INFO a.t.Usermodel_Test [main] Succesfully creation of user
+2023-06-15 21:14:53,413 INFO a.t.Usermodel_Test [main] Getting created user details
+2023-06-15 21:14:54,753 INFO a.t.Usermodel_Test [main] User details displayed success
+2023-06-15 21:14:54,759 INFO a.t.Usermodel_Test [main] User details updation
+2023-06-15 21:14:56,107 INFO a.t.Usermodel_Test [main] Successfully updated
+2023-06-15 21:14:56,108 INFO a.t.Usermodel_Test [main] Getting created user details
+2023-06-15 21:14:57,399 INFO a.t.Usermodel_Test [main] User details displayed success
+2023-06-15 21:14:57,400 INFO a.t.Usermodel_Test [main] Again getting User details after updation
+2023-06-15 21:14:57,404 INFO a.t.Usermodel_Test [main] User details deletion
+2023-06-15 21:14:58,709 INFO a.t.Usermodel_Test [main] Successfully user detail deleted
