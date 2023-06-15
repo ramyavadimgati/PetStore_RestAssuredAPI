@@ -70,3 +70,25 @@
 2023-06-15 15:52:27,162 INFO a.t.Usermodel_Test [main] Again getting User details after updation
 2023-06-15 15:52:27,164 INFO a.t.Usermodel_Test [main] User details deletion
 2023-06-15 15:52:28,275 INFO a.t.Usermodel_Test [main] Successfully user detail deleted
+2023-06-15 16:28:39,894 INFO a.t.Usermodel_Test [main] This is user creation class
+2023-06-15 16:28:45,714 INFO a.t.Usermodel_Test [main] Succesfully creation of user
+2023-06-15 16:28:45,727 INFO a.t.Usermodel_Test [main] Getting created user details
+2023-06-15 16:28:47,105 INFO a.t.Usermodel_Test [main] User details displayed success
+2023-06-15 16:28:47,107 INFO a.t.Usermodel_Test [main] User details updation
+2023-06-15 16:28:48,420 INFO a.t.Usermodel_Test [main] Successfully updated
+2023-06-15 16:28:48,420 INFO a.t.Usermodel_Test [main] Getting created user details
+2023-06-15 16:28:49,744 INFO a.t.Usermodel_Test [main] User details displayed success
+2023-06-15 16:28:49,744 INFO a.t.Usermodel_Test [main] Again getting User details after updation
+2023-06-15 16:28:49,746 INFO a.t.Usermodel_Test [main] User details deletion
+2023-06-15 16:28:51,029 INFO a.t.Usermodel_Test [main] Successfully user detail deleted
+2023-06-15 17:21:59,153 INFO a.t.Usermodel_Test [main] This is user creation class
+2023-06-15 17:22:04,016 INFO a.t.Usermodel_Test [main] Succesfully creation of user
+2023-06-15 17:22:04,033 INFO a.t.Usermodel_Test [main] Getting created user details
+2023-06-15 17:22:05,309 INFO a.t.Usermodel_Test [main] User details displayed success
+2023-06-15 17:22:05,311 INFO a.t.Usermodel_Test [main] User details updation
+2023-06-15 17:22:06,608 INFO a.t.Usermodel_Test [main] Successfully updated
+2023-06-15 17:22:06,608 INFO a.t.Usermodel_Test [main] Getting created user details
+2023-06-15 17:22:07,908 INFO a.t.Usermodel_Test [main] User details displayed success
+2023-06-15 17:22:07,908 INFO a.t.Usermodel_Test [main] Again getting User details after updation
+2023-06-15 17:22:07,910 INFO a.t.Usermodel_Test [main] User details deletion
+2023-06-15 17:22:09,198 INFO a.t.Usermodel_Test [main] Successfully user detail deleted
